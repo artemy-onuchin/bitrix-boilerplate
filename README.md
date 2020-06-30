@@ -5,8 +5,13 @@
 
 
 ### Resources used (included in projects)
-+ Images from [Unsplash](https://unsplash.com/)
-    >Some images for preview
++ Images from [Unsplash](https://unsplash.com/)  
+    >Some images for preview  
++ scrolltotop.js  
+    >Scrolling to the top of the site  
++ jQuery [Website](https://jquery.com/)  
++ Gulp [Website](https://gulpjs.com/)  
++ JS Hint [Website](https://jshint.com/)  
 
 
 ### Author

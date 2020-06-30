@@ -1,0 +1,15 @@
+{
+  "name": "name-of-your-project",
+  "version": "0.1.0",
+  "description": "project description",
+  "private": true,
+  "keywords": [
+    "bitrix"
+  ],
+  "author": "Onuchin Artemy",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-livereload": "^4.0.2"
+  }
+}

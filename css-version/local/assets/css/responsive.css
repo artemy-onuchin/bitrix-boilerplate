@@ -1,0 +1,23 @@
+/* MEDIA QUERIES
+--------------------------------------------------- */
+@media (min-width: 480px) {}
+
+@media (min-width: 640px) {}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 1024px) {}
+
+@media (min-width: 1280px) {}
+
+@media (min-width: 1366px) {}
+
+@media (min-width: 1440px) {}
+
+@media (min-width: 1600px) {}
+
+/* RETINA READY
+--------------------------------------------------- */
+@media (-webkit-min-device-pixel-ratio: 2) {
+    .selector { background-image: url(../path_to_png/apple@2x.png); }
+}

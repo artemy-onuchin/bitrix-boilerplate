@@ -1,0 +1,14 @@
+/*
+-------------------------------ENG-------------------------------
+ONLY HERE IT IS POSSIBLE TO INDICATE YOUR STYLES!
+Sometimes it is necessary to add! Important to override styles!
+-------------------------------RUS-------------------------------
+ТОЛЬКО ТУТ МОЖНО УКАЗЫВАТЬ СВОИ СТИЛИ!
+Иногда придется возможно добавить !important для переопределения стилей!
+*/
+
+.img-responsive {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}

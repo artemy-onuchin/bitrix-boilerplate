@@ -1,0 +1,23 @@
+﻿# Folders - don't forget to uncomment required lines
+# /bitrix/
+# /upload/
+# /include/
+# /images/
+# /local/node_modules/
+
+# Files - don't forget to uncomment required lines
+# /.htaccess
+# /local/include/metrika.php
+# /local/package-lock.json
+# web.config
+# *.ini
+# *.xml
+# *.rar
+# *.7z
+# *.zip
+# *.gz
+# *.gzip
+# *.tar
+# *.tar-gz
+# *.tgz
+# *.txt
